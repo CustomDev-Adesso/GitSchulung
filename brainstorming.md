@@ -19,12 +19,12 @@ NUR ENGLISCHE CLIENTS!!!
   * (Slot 1) 01: Gitignore, gitattributes
   * (Slot 1) 02: Commit messages formatieren
   * (Slot 1) 03: Rebase vs merge
-  * (Slot 2) Stashes
-  * (Slot 2) Revert vs reset
-  * (Slot 3) Merge Konflikte (welche gibt es, wie löse ic   diese
-  * (Slot 3) Cherry-picking
-  * (Slot 4) Pull Request
-  * (Slot 4) GIT-LFS
+  * (Slot 2) 04: Stashes
+  * (Slot 2) 05: Revert vs reset
+  * (Slot 3) 06: Merge Konflikte (welche gibt es, wie löse ic   diese
+  * (Slot 3) 07:Cherry-picking
+  * (Slot 4) 08: Pull Request
+  * (Slot 4) 09: GIT-LFS
 
 ## Advandced Workflows (branching, etc) (Lead Developer, 1+ Tage)
 * Repo Setup und Konfiguration
