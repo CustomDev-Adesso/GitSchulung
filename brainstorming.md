@@ -16,15 +16,15 @@ NUR ENGLISCHE CLIENTS!!!
   * Pull Request
 
 * Basic GIT
-  * (Slot 1) 01: Gitignore, gitattributes
-  * (Slot 1) 02: Commit messages formatieren
-  * (Slot 1) 03: Rebase vs merge
-  * (Slot 2) 04: Stashes
-  * (Slot 2) 05: Revert vs reset
-  * (Slot 3) 06: Merge Konflikte (welche gibt es, wie löse ic   diese
-  * (Slot 3) 07:Cherry-picking
-  * (Slot 4) 08: Pull Request
-  * (Slot 4) 09: GIT-LFS
+  * (Slot 1) 01: Gitignore, gitattributes (Simon)
+  * (Slot 1) 02: Commit messages formatieren (Sven)
+  * (Slot 1) 03: Rebase vs merge (Simon)
+  * (Slot 2) 04: Stashes (Tobias)
+  * (Slot 2) 05: Revert vs reset (Sven)
+  * (Slot 3) 06: Merge Konflikte, welche gibt es & wie löse ich diese (Simon)
+  * (Slot 3) 07: Cherry-picking (Tobias)
+  * (Slot 4) 08: Pull Request (Tobias)
+  * (Slot 4) 09: GIT-LFS (Sven)
 
 ## Advandced Workflows (branching, etc) (Lead Developer, 1+ Tage)
 * Repo Setup und Konfiguration
