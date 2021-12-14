@@ -40,3 +40,4 @@ NUR ENGLISCHE CLIENTS!!!
 * GitKraken
 * Tooling remote (Azure DevOps, Github, …)
 * Migration von Altsystemen
+* Submodules
