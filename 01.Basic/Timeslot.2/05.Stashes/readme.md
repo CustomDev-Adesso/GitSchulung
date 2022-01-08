@@ -1,4 +1,4 @@
-# Stashes
+# Stash
 
 
 ## Definition
@@ -7,7 +7,7 @@ Ein Anwendungsszenario wäre zum Beispiel wenn du mitten in der Implementierung 
 **Beachte das Stashes nur lokal vorhanden ist!**
 
 
-## Anlegen eines Stashes
+## Anlegen eines Stash
 Mit dem Befehl
 
     git stash
@@ -59,7 +59,7 @@ Mit
 kann man sich einen spezifischen Stash dann genauer anschauen. Dabei kann die Stash Bezeichnung aus der vorher angeschauten Liste genommen werden.
 
 
-## Wiederverwenden eines Stashes
+## Wiederverwenden eines Stash
 Gespeicherten Stash auf working copy anwenden und aus Stash-Sammulung entfernen.
 
     git stash pop
