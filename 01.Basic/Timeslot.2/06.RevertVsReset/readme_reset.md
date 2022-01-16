@@ -17,10 +17,8 @@ Standardmäßig wird der gemischte Modus verwendet.
 |Staging|Alle Änderungen in den Dateien wird hier verfolgt und gespeichert (Hinzufügen git add)|
 |HEAD|Letzter Coimmit im aktuellen Checkout-Zweig(Zeiger für jede Referenz)|
 ## Synopsis 
-> git reset [-q] [<tree-ish>] [--] <pathspec>
->
-> git reset [-q] [--pathspec-from-file=<file> [--pathspec-file-nul]] [<tree-ish>]
->
-> git reset (--patch | -p) [<tree-ish>] [--] [<pathspec>…​]
->
-> git reset [--soft | --mixed [-N] | --hard | --merge | --keep] [-q] [<commit>]
+
+    git reset [-q] [<tree-ish>] [--] <pathspec>
+    git reset [-q] [--pathspec-from-file=<file> [--pathspec-file-nul]] [<tree-ish>]
+    git reset (--patch | -p) [<tree-ish>] [--] [<pathspec>…​]
+    git reset [--soft | --mixed [-N] | --hard | --merge | --keep] [-q] [<commit>]
