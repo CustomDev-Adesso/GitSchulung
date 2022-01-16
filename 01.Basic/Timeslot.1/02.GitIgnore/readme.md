@@ -1,1 +1,1 @@
-# Git Ignrore
+# Git Ignore
