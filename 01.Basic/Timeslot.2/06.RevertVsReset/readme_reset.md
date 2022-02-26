@@ -4,6 +4,8 @@
 Setzt den aktuellen HEAD auf den angegebenen Zustand zurück. Folgende Modis werden für den Reset eingesetzt.
 Standardmäßig wird der gemischte Modus verwendet.
 
+![reset](../../../img/git-reset.png)
+
 |Soft|Mixed (Standard)|Hard|
 |----|----------------|----|
 |Zeiger auf das angegebene Commit wird gesetztArbeitsbereich und Staging bleibt vorhanden|Sowohl Zeiger als auch Staging werden zurückgesetzt|Wechsel zu einem Commit; Staging wird zurückgesetzt|
@@ -16,6 +18,7 @@ Standardmäßig wird der gemischte Modus verwendet.
 |Working Directory|Arbeitsverzeichnis, an dem gerade gearbeitet wird (Verfolgung git status)|
 |Staging|Alle Änderungen in den Dateien wird hier verfolgt und gespeichert (Hinzufügen git add)|
 |HEAD|Letzter Coimmit im aktuellen Checkout-Zweig(Zeiger für jede Referenz)|
+
 ## Synopsis 
 
     git reset [-q] [<tree-ish>] [--] <pathspec>
