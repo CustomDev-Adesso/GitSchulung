@@ -27,6 +27,7 @@ NUR ENGLISCHE CLIENTS!!!
   * (Slot 4) 09: GIT-LFS (Sven)
 
 ## Advandced Workflows (branching, etc) (Lead Developer, 1+ Tage)
+* Log
 * Repo Setup und Konfiguration
 * Addons
 * Tags
@@ -40,4 +41,11 @@ NUR ENGLISCHE CLIENTS!!!
 * GitKraken
 * Tooling remote (Azure DevOps, Github, …)
 * Migration von Altsystemen
+* Reflog
+* Interactive rebase
+* Blame
+* Bisect
 * Submodules
+* Workspaces
+* Split Index
+* Notes
